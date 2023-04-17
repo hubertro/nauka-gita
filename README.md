@@ -1,1 +1,2 @@
-"# nauka-gita" 
+# nauka-gita
+Nauka gita, howto.
